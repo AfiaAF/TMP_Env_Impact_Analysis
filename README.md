@@ -82,4 +82,4 @@ environmental-impact-analysis-project/
 - Jupyter notebook
 - Visualizations (charts and graphs)
 - README with methodology and insights
-- Presentation file
+- Presentation file (link : https://drive.google.com/drive/folders/1n5V0LrwzFeC3XZCR6yr6wFZCu6-Cv6w1?usp=sharing )
